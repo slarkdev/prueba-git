@@ -6,7 +6,7 @@ describe("Grupo de casos", function() { // describe: agrupa las pruebas
     });
 });
 
-
+// commit de arrays
 // Ejercicios de Arrays
 // Ejercicio 1
 console.log("Ejercicio 1");
